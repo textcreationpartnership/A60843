@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The light, the way, that children ought to be trained up in, wherein the holy men of God walked</title>
+            <author>Salt, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60843</idno>
+            <idno type="STC">Wing S459</idno>
+            <idno type="STC">ESTC R16668</idno>
+            <idno type="EEBO-CITATION">13623085</idno>
+            <idno type="OCLC">ocm 13623085</idno>
+            <idno type="VID">100851</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60843)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100851)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 801:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The light, the way, that children ought to be trained up in, wherein the holy men of God walked</title>
+                  <author>Salt, William.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: William Salt.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Children --  Religious life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:100851:1" rendition="simple:additions"/>
+            <head>The <hi>Light,</hi> the <hi>Way,</hi> that <hi>Children</hi> ought to be Trai<g ref="char:EOLhyphen"/>ned up in, wherein the Holy Men of God Walked.</head>
+            <p>
+               <hi>If</hi> Children, <hi>and</hi> Young People <hi>ought to be Trained up</hi> in the Fear of the Lord, and to be Sober minded; <hi>how much more then them that are</hi> Aged <hi>ought to be found</hi> therein?</p>
+            <p>YOU that be <hi>Parents, FATHERS</hi> and <hi>MOTHERS</hi> of <hi>Children,</hi> Traine up your <hi>Children</hi> in the nurture and fear of the Lord to depart from ſin, and to depart from evil, which is the beginning of the true wiſdome, to ſeek firſt the Kingdome of Heaven and the Righteouſneſs thereof, and then all other things ſhall be added; not taken away: So that this is the firſt thing to be ſought after, the firſt thing to be minded, which the fear of the Lord is the beginning of, this Heavenly wiſ<g ref="char:EOLhyphen"/>dome which Children are to be Trained up in; for that is the fool which is not rich in God; and Godlineſs is profitable unto all things which is great gain, that hath the promiſe of <hi>this life</hi> and that <hi>which is to come.</hi> So would'ſt thou have an inheritance for them, labour to bring them unto the <hi>Light</hi> of <hi>Chriſt</hi> in them, who <hi>lighteth</hi> eve<g ref="char:EOLhyphen"/>ry one that cometh into the World, which will bring them unto <hi>Chriſt,</hi> from whence the <hi>Light</hi> cometh that he may bleſs them, for the <hi>Light</hi> that cometh from him, leadeth to him, that thou whe<g ref="char:EOLhyphen"/>ther <hi>Father</hi> or <hi>Mother,</hi> or both, may have your <hi>Children</hi> to be Gods <hi>Children,</hi> for <hi>God</hi> is <hi>Light</hi> and dwelleth in the <hi>Light,</hi> &amp; his are <hi>Children</hi> of the <hi>Light,</hi> and walketh in the <hi>Light</hi> which is the way to the Heavenly Kingdome; and this is the way for your <hi>Chil<g ref="char:EOLhyphen"/>dren</hi> to be Trained up in, wherein the <hi>Saints</hi> walked, and had their fellowſhip together, giving thanks unto the <hi>Father</hi> which had made them meet to be partakers of the inheritance of the Saints <hi>in Light.</hi> For to be bred up in the Stubborneſs, Obſtinacy, Wrath, and Envy, is not the right way, ſuch go in the way of <hi>Cain</hi> and <hi>Corah</hi> that periſhed, neither are ſuch <hi>Children</hi> of God, who is not the <hi>Father</hi> of that <hi>Seed,</hi> his <hi>Children</hi> bear not ſuch an <hi>Image,</hi> but his
+<pb n="2" facs="tcp:100851:2"/>
+               <hi>Children</hi> are taught of <hi>Chriſt,</hi> learn of him who hath enlightened them, who is the <hi>Way,</hi> and none cometh to the <hi>Father,</hi> but by him, who ſaith, <hi>learn of me, I am meek and low in heart;</hi> behold then the <hi>Way</hi> people that your <hi>Children</hi> are to be Trained up in, Meekneſs &amp; Humility of heart which Chriſt the <hi>Light</hi> teacheth, &amp; all that learn of him come to be like unto him, to bear his Image, his Likeneſs. Therefore you that are <hi>Parents</hi> be carefull of this, that your <hi>Chil<g ref="char:EOLhyphen"/>dren</hi> walk not in the evil Way, that the evil one leadeth into, which is out of the Way of God, and the Way of the ungodly ſhall periſh; it will not be for the <hi>Parents</hi> joy, nor the <hi>Childrens Peace</hi> to be found in that <hi>Way;</hi> but for <hi>Children</hi> to be found in the <hi>Truth,</hi> to do <hi>Truth,</hi> ſpeak <hi>Truth,</hi> and walk in the <hi>Truth,</hi> there is true cauſe of joy, for there they are out of the Way of the evil one, who abode not in the <hi>Truth:</hi> And all lying is of the <hi>Devil,</hi> who are in that, are in the evil way, which the true <hi>Light</hi> leads out of all that obey and follow it; ſo to gather them into this <hi>Way</hi> that they may mind the <hi>Light,</hi> the <hi>Way,</hi> that is your care to mind them of, and your part to performe towards them that are <hi>Parents,</hi> that the evil one draw not out their minds, and corrupt their minds, which you are to help them in, if they are unmindful of themſelves: And be not raſh nor haſty towards them, but labour to inſtruct them, and with Love and Meekneſs to gain them, that their minds may be turned to the <hi>Light</hi> which turns towards God, to obey and ſerve him who hath enlightened them, <hi>CHRIST</hi> the <hi>LIGHT</hi> who was ſubject unto <hi>Joſeph</hi> and <hi>Mary</hi> his <hi>Mother,</hi> and the <hi>Light</hi> leadeth to follow <hi>him</hi> for an example, in whoſe mouth there was no guile, and then they will be ſubject unto you, and obey you. For ye <hi>Children</hi> ought to obey your <hi>Parents</hi> in all things <hi>in the Lord,</hi> and this is right, and the requirings ought to be done in the Light of the Lord, and this is right, and what of the Lord is required both of the one and the other.</p>
+            <p>And when your <hi>Children</hi> are come to years, provide for them ſuch honeſt lawful <hi>Callings,</hi> as the Lord inclines them to, or makes them <hi>Capable of,</hi> therein to ſerve him and their Generations, and not to be exerciſed in things <hi>too high</hi> for them, for if their imploy<g ref="char:EOLhyphen"/>ment be <hi>above them,</hi> it will prove burthenſome unto <hi>them,</hi> and that which they are moſt inclined unto, they will ſooneſt get Dominion over it. And that <hi>Calling</hi> is lawful or honeſt which is according
+<pb n="3" facs="tcp:100851:2"/>to the righteous Law of God <hi>written in the heart,</hi> and not con<g ref="char:EOLhyphen"/>trary to it, which <hi>law</hi> is <hi>Light.</hi> And whatſoever things are honeſt, juſt, and of good report, are to be ſought and followed after. So let your <hi>Children</hi> be imployed and exerciſed in the thing that is <hi>good,</hi> which is <hi>neceſſary,</hi> not in things <hi>unneceſſary</hi> to cumber their wits, and lade their minds with, but to come to plainneſs, ſimplicity and Truth, that their <hi>Yea</hi> be <hi>Yea,</hi> and their <hi>Nay Nay,</hi> in all their Communication, and let no corrupt Communication proceed out of their mouths, neither filthineſs, nor fooliſh talking, nor jeſting, which are not convenient, for ſuch things corrupts them, and doth them hurt, and ſo they looſe the ſimplicity, modeſty, and ſobriety, which things are comely and of good report. And ſo let ſimplicity be minded, and purity, to keep out of the many mixtures, which the high bred <hi>Scholars</hi> have brought up and invented, which the <hi>Pope</hi> hath been the <hi>Author of,</hi> the <hi>Father of,</hi> (&amp; not <hi>Chriſt,</hi>) train<g ref="char:EOLhyphen"/>ing up his <hi>Scholars</hi> to ſpeak <hi>Latine, Lawyers</hi> to have the <hi>Law</hi> in <hi>Latine,</hi> and <hi>Prieſts</hi> preaching much <hi>in Latine,</hi> or his <hi>Church<g ref="char:EOLhyphen"/>men</hi> (as they are called) and things concerning <hi>Phyſick</hi> written <hi>in Latine,</hi> and <hi>Greek names</hi> and <hi>terms</hi> to lock up their Art, which is not ſimple nor plain, brought in by the <hi>Pope,</hi> which are yet held up, which the true <hi>Light</hi> unlocks, and makes manifeſt, wherewith <hi>Chriſt</hi> hath <hi>inlightned</hi> every man that cometh into the world; his <hi>Doctrine,</hi> his <hi>Breeding,</hi> and his <hi>Manners,</hi> who hath been <hi>Gathering</hi> but the Lord will <hi>Scatter</hi> him, and hath had his many <hi>Maſters</hi> out of <hi>Chriſts</hi> doctrine, <hi>Maſters</hi> of <hi>Art</hi> as they are called, and ſo would be the <hi>Fathers</hi> and <hi>Maſters</hi> unto others, when as <hi>Chriſt</hi> ſaith, <hi>be not ye called of men</hi> Maſter: <hi>And how can ye believe which receive honour one of another?</hi> and ſaith the Apoſtle, <hi>be not many</hi> Maſters; <hi>knowing that ye ſhall receive the greater condemnation;</hi> and this hath <hi>Children</hi> been trained up in many years out of <hi>Chriſts</hi> doctrine, or the <hi>Apoſtles</hi> doctrine, out of the <hi>Plainneſs</hi> and <hi>Simplicity,</hi> in the <hi>Craft</hi> and <hi>Subtilty,</hi> and ſo have been worſe when they came out of their Schools, then when they went in: So conſider, whether this be not an upholding <hi>Popery,</hi> to continue that which the <hi>Pope</hi> hath brought in &amp; not <hi>Chriſt,</hi> for Grace and Truth comes in by <hi>JES<g ref="char:V">Ʋ</g>S CHRIST</hi> the <hi>Light.</hi> Or did ever <hi>Chriſt</hi> learn his <hi>Diſciples,</hi> his <hi>Scholars,</hi> divers <hi>Tongues</hi> &amp; curious <hi>Arts</hi> to fit them for the <hi>Mi<g ref="char:EOLhyphen"/>niſtry?</hi> but he bid them <hi>be harmleſs as Doves,</hi> and told the great <hi>Sacrificers</hi> and others that did the Sacrifices; <hi>that he would have</hi>
+               <pb n="4" facs="tcp:100851:3" rendition="simple:additions"/>Mercy <hi>and not</hi> Sacrifices; <hi>go and learn what that meaneth,</hi> and leave <hi>off</hi> your curious <hi>Arts</hi> and <hi>Sciences,</hi> &amp; <hi>Complements</hi> and <hi>Ceremonies,</hi> and learn <hi>Plainneſs,</hi> and <hi>Simplicity, Meekneſs,</hi> and <hi>Lowlineſs</hi> in the heart, as <hi>Chriſts Diſciples</hi> that learn of him. And ſuch cannot follow <hi>Popes manners, Popiſh Schooles,</hi> nor be made <hi>Maſters</hi> of <hi>Art,</hi> nor <hi>Innes</hi> of <hi>Court Gentlemen,</hi> to have the changeable ſuites of <hi>Apparel,</hi> and their <hi>Veſtments</hi> of ſeveral ſorts and faſhions, nor be <hi>Maſters</hi> of the <hi>Ceremonies</hi> to ſtand in the <hi>Court</hi> of <hi>Princes,</hi> but learn to ſerve the one <hi>Maſter,</hi> and ſo through his teaching to ſerve one another, that they may ſtand <hi>in Gods holy place,</hi> (which is better than the Pallace of Princes) <hi>with clean hands, and pure hearts, and their ſouls not lifted up unto vanity;</hi> mark ye <hi>Scholars</hi> and <hi>Children,</hi> who they are that muſt ſtand before him, who is <hi>KING</hi> of <hi>KINGS,</hi> and <hi>LORD</hi> of <hi>LORDS,</hi> and what his teaching is, who is the <hi>KING</hi> of <hi>GLORY</hi> and <hi>LORD</hi> of the <hi>whole earth,</hi> read <hi>Pſam.</hi> 24.3, 4. Now you having a <hi>Light</hi> from <hi>Chriſt</hi> who is the <hi>Way</hi> to the <hi>Father,</hi> and none cometh unto the <hi>Father</hi> but <hi>by him</hi> who is the <hi>Way,</hi> who <hi>Lighteth</hi> every man that cometh into the World, this <hi>Light</hi> will let you ſee your ſelves, and all other waies that be contrary to it, <hi>Loving it,</hi> and obeying <hi>it,</hi> you <hi>Love Chriſt</hi> from whence the <hi>Light</hi> cometh; but diſobeying <hi>the Light,</hi> and walking contrary <hi>unto</hi> it, that wil be your <hi>Condemnation,</hi> the <hi>Light</hi> ſaith Chriſt, <hi>who is the Way to the Father.</hi>
+            </p>
+            <closer>
+               <signed>William Salt.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Wilſon</hi> at the Sign of the <hi>Black-Spread-Eagle</hi> and <hi>Wind Mill,</hi> in <hi>Martins</hi> near <hi>Alderſgate,</hi> 1660</p>
+         </div>
+      </back>
+   </text>
+</TEI>
